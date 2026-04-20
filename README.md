@@ -1,1 +1,2 @@
 # GAN
+A Generative Adversarial Network (GAN) is a type of machine learning system that uses two neural networks, the generator and the discriminator, to compete with each other to make new, realistic data like images, music, or text from a training set. Ian Goodfellow came up with the generator and discriminator in 2014. The generator makes fake data, and the discriminator tries to tell it apart from real data. They work together to make the outputs almost look like real data.
